@@ -1,1 +1,1 @@
-# IT-solution-bootstrap-website
+# IT-course-bootstrap-website
